@@ -1,1 +1,1 @@
-# SicaklikSens-r-Kullanimi
+# SicaklikSensoruKullanimi
